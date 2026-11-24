@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Phone Audio Mixer
+GenericName=Bluetooth & AirPlay Audio Receiver
+Comment=Stream phone audio over Bluetooth or AirPlay and mix it with PC audio
+Exec=phone-audio-mixer
+Icon=audio-headphones
+Terminal=false
+Categories=AudioVideo;Audio;Settings;
+Keywords=bluetooth;airplay;audio;phone;headphones;pipewire;mixer;
